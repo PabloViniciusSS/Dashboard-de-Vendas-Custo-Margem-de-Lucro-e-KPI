@@ -60,6 +60,12 @@ Meu nome é Pablo Vinícius, venho estudando analise de dados, Ciencia de Dados 
 
 Nesse projeto, foi demonstrado como realizar uma análise superficial dos dados, incluindo a verificação e remoção de dados duplicados, além de identificar problemas na detecção dos cabeçalhos. Foi discutida a importância de compreender a modelagem de dados para manipular diferentes bases de dados e estabelecer o relacionamento entre os dados. Utilizamos o DAX para criar duas novas tabelas: a tabela Lucro e a tabela Margem de Lucro.
 
+Principais Destaques:
+
+- **Análise de Vendas**: Utilizei gráficos de cascata para visualizar o valor total de vendas por modo de envio.
+- **Custo de Envio**: Identifiquei os mercados com maior custo médio de envio usando gráficos treemap.
+- **Indicadores de Desempenho**: Criei KPIs para monitorar se a empresa atingiu suas metas de vendas mensais.
+- **Margem de Lucro**: Analisei o comportamento da margem de lucro ao longo do tempo.
 
 ## Licença
 
